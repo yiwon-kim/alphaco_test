@@ -1,5 +1,5 @@
 numpy
-pandas==2.2.3
+pandas
 matplotlib
 seaborn
 scipy
